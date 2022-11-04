@@ -54,3 +54,11 @@
   - continuous integration
   - wikis
 
+## HandsOn with GitHub 
+
+### Prerequisites
+
+- GitHub Account through University ID
+- A Repository
+- A Forked Repository
+
