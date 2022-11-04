@@ -10,7 +10,7 @@
   
 ## Centralized Version Control Management System
 
-<p align="center"> <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka-768x339.png" width="600"></p>
+<p align="center"> <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka-768x339.png" width="700"></p>
 
 - Repository is available in a Central Server (single authoritative data source)
 - Users (developers) can checkout and checkin to the codes (files) from this repository
@@ -45,5 +45,12 @@
 
 <p align="center"> <img src="https://miro.medium.com/max/720/0*k7H1_j7ols5Mlwse.png" width="400"></p>
 
-- 
+- Internet hosting service for software development and version control using Git. 
+- Features:
+  - access control
+  - bug tracking
+  - software feature requests
+  - task management
+  - continuous integration
+  - wikis
 
