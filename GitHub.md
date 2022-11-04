@@ -27,3 +27,23 @@
 - The updates to the local repository with new data (from the remote server) by pull operation
 - The updates to remote repository by push operation from the local repository
 - Examples include: Git
+
+## Git
+
+<p align="center"> <img src="https://camo.githubusercontent.com/6eaaae8defc78f268eaf0824350a66a1dfcb6aa77210d3dca069d1d1cefebc53/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d4c6f676f2d32436f6c6f722e706e67" width="300"></p>
+
+- Free, open source
+- Fully distributed
+- Tracks contents, not files
+- Data is Snapshot
+- Three stages
+  - Working directory
+  - Staging directory
+  - Git directory (repository)
+
+## GitHub 
+
+<p align="center"> <img src="https://miro.medium.com/max/720/0*k7H1_j7ols5Mlwse.png" width="400"></p>
+
+- 
+
